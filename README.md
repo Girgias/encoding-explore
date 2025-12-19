@@ -9,6 +9,9 @@ The initial motivation is to see where we can forgo using the C `mblen()` functi
 ## Resources
 
 - Linux locales are *always* ASCII compatible: https://superuser.com/questions/1753662/how-can-i-set-my-systems-default-encoding-to-utf-16
+- IBM AIX "ASCII characters in the unique code-point range": https://www.ibm.com/docs/en/aix/7.3.0?topic=characters-ascii-in-unique-code-point-range
+- IBM AIX "Supported languages and locales": https://www.ibm.com/docs/en/aix/7.3.0?topic=globalization-supported-languages-locales
+- IBM "PASE for i Locales": https://www.ibm.com/docs/en/i/7.6.0?topic=ssw_ibm_i_76/apis/pase_locales.html
 - Windows code page identifier list: https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 - Windows code page data: https://www.microsoft.com/en-us/download/details.aspx?id=10921
 - Windows C/C++ reference for `setlocale()` CRT function : https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/setlocale-wsetlocale?view=msvc-170
