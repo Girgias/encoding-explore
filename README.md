@@ -1,6 +1,6 @@
 # Encoding explore
 
-This is a W.I.P. project to analyze existing ecodings to determine differences and statistics about old encodings and OS locales.
+This is a W.I.P. project to analyse existing encodings to determine differences and statistics about old encodings and OS locales.
 
 ## Motivation
 
@@ -20,7 +20,7 @@ The initial motivation is to see where we can forgo using the C `mblen()` functi
 - IANA Character sets: https://www.iana.org/assignments/character-sets/character-sets.xhtml
 - Default system values for national language versions for IBM i: https://www.ibm.com/docs/en/i/7.6.0?topic=information-default-system-values-national-language-versions
 - Apple/MacOS language and Locale IDs: https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPInternational/LanguageandLocaleIDs/LanguageandLocaleIDs.html#//apple_ref/doc/uid/10000171i-CH15-SW1
-- Wikipidia index of all Mac OS character encodings: https://en.wikipedia.org/wiki/Category:Classic_Mac_OS_character_encodings
+- Wikipedia index of all macOS character encodings: https://en.wikipedia.org/wiki/Category:Classic_Mac_OS_character_encodings
 
 ## ToDo:
 
